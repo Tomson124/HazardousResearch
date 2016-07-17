@@ -1,0 +1,19 @@
+[
+{
+  "modid": "hazardousresearch",
+  "name": "Hazardous Research",
+  "description": "None yet",
+  "version": "0.0.0.1",
+  "mcversion": "1.10.2",
+  "url": "https://github.com/CyberdyneCC/HazardousResearch",
+  "updateUrl": "",
+  "authorList": [ "Tomson124" ],
+  "credits": "Thanks to everyone who has contributed to this ongoing project.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

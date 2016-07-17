@@ -1,0 +1,8 @@
+# English
+# Author: Tomson124
+
+itemGroup.hazardousresearch=Hazardous Research
+
+# Blocks
+tile.hazardousresearch.oreChlorine.name=Chlorine Ore
+tile.hazardousresearch.evaporationChamber.name=Evaporation Chamber

@@ -1,0 +1,52 @@
+{
+  "forge_marker":1,
+  "defaults":{
+    "transform":"forge:default-block",
+    "model":"orientable",
+    "textures":{
+      "particle":"hazardousresearch:blocks/machine/machine_top",
+      "top":"hazardousresearch:blocks/machine/machine_top",
+      "down": "hazardousresearch:blocks/machine/machine_bottom",
+      "side": "hazardousresearch:blocks/machine/machine_side"
+    }
+  },
+  "variants":{
+    "normal": [{}],
+    "facing":{
+      "north":{
+
+      },
+      "east":{
+        "y":90
+      },
+      "south":{
+        "y":180
+      },
+      "west":{
+        "y":270
+      }
+    },
+    "active":{
+      "true":{
+        "textures":{
+          "front":"hazardousresearch:blocks/machine/poweredfurnace_front_on"
+        }
+      },
+      "false":{
+        "textures":{
+          "front":"hazardousresearch:blocks/machine/poweredfurnace_front"
+        }
+      }
+    },
+    "inventory": [{
+      "model": "orientable",
+      "textures": {
+        "particle": "hazardousresearch:blocks/machine/machine_top",
+        "top": "hazardousresearch:blocks/machine/machine_top",
+        "down": "hazardousresearch:blocks/machine/machine_bottom",
+        "side": "hazardousresearch:blocks/machine/machine_side",
+        "front": "hazardousresearch:blocks/machine/poweredfurnace_front"
+      }
+    }]
+  }
+}
