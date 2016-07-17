@@ -70,11 +70,12 @@ repositories {
 dependencies {
 
     deobfCompile "mezz.jei:jei_1.10.2:3.7.3.223"
-    deobfCompile "mcjty.theoneprobe:TheOneProbe:1.9.4-1.0.4-14"
+deobfCompile "com.enderio.core:EnderCore:1.10.2-0.4.1.40-beta"
+    //deobfCompile "mcjty.theoneprobe:TheOneProbe:1.9.4-1.0.4-14"
     compile "net.darkhax.tesla:Tesla:1.9.4-1.1.0.24"
-    compile "mcp.mobius.waila:Waila:1.7.0-B3_1.9.4"
+    //compile "mcp.mobius.waila:Waila:1.7.0-B3_1.9.4"
     //compile "CrystekTeam:Crystek:1.10.2-1.0.0.26"
-    compile "net.industrial-craft:industrialcraft-2:2.6.11-ex110:api"
+    //compile "net.industrial-craft:industrialcraft-2:2.6.11-ex110:api"
 
 }
 
